@@ -25,4 +25,4 @@ The neural network architecture comprises multiple convolutional layers followed
 The trained model demonstrates promising results, achieving high accuracy in classifying leaf species. Training and testing accuracy curves are plotted to visualize the model's performance over epochs. Through meticulous hyperparameter tuning and experimentation, the model achieves optimal accuracy while avoiding overfitting.
 
 ## Author
-- **Shehab Adel Ramadan**
+- **Shehab Adel Ramadan Moharram**
